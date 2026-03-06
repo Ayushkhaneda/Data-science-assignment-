@@ -1,2 +1,3 @@
 # Data-science-assignment-
-This assignment of data science in btech cse second year 4th semester 
+This is the assignment of data science 
+ btech cse second year 4th semester 
